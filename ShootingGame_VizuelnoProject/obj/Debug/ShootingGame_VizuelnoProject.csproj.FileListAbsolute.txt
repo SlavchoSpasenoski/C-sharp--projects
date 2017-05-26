@@ -1,0 +1,10 @@
+E:\Visual Studio 2013\Projects\ShootingGame_VizuelnoProject\ShootingGame_VizuelnoProject\bin\Debug\ShootingGame_VizuelnoProject.exe.config
+E:\Visual Studio 2013\Projects\ShootingGame_VizuelnoProject\ShootingGame_VizuelnoProject\bin\Debug\ShootingGame_VizuelnoProject.exe
+E:\Visual Studio 2013\Projects\ShootingGame_VizuelnoProject\ShootingGame_VizuelnoProject\bin\Debug\ShootingGame_VizuelnoProject.pdb
+E:\Visual Studio 2013\Projects\ShootingGame_VizuelnoProject\ShootingGame_VizuelnoProject\obj\Debug\ShootingGame_VizuelnoProject.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\ShootingGame_VizuelnoProject\ShootingGame_VizuelnoProject\obj\Debug\ShootingGame_VizuelnoProject.Form1.resources
+E:\Visual Studio 2013\Projects\ShootingGame_VizuelnoProject\ShootingGame_VizuelnoProject\obj\Debug\ShootingGame_VizuelnoProject.Properties.Resources.resources
+E:\Visual Studio 2013\Projects\ShootingGame_VizuelnoProject\ShootingGame_VizuelnoProject\obj\Debug\ShootingGame_VizuelnoProject.csproj.GenerateResource.Cache
+E:\Visual Studio 2013\Projects\ShootingGame_VizuelnoProject\ShootingGame_VizuelnoProject\obj\Debug\ShootingGame_VizuelnoProject.exe
+E:\Visual Studio 2013\Projects\ShootingGame_VizuelnoProject\ShootingGame_VizuelnoProject\obj\Debug\ShootingGame_VizuelnoProject.pdb
+E:\Visual Studio 2013\Projects\ShootingGame_VizuelnoProject\ShootingGame_VizuelnoProject\obj\Debug\ShootingGame_VizuelnoProject.HighScores.resources
