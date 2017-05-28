@@ -43,12 +43,13 @@ o	Bestcowboys – Пребарува во класата Players за внесе
 o	Exit – ја затвора апликацијата.
 
 3.	Screenshots од изгледот на апликацијата/играта
-   ![alt text](https://github.com/SlavchoSpasenoski/C-projects/blob/master/Sliki/prva.jpg)
+   
 
 •	Кога апликацијата ќе се стартува таа изгледа како на следнава слика:
+![alt text](https://github.com/SlavchoSpasenoski/C-projects/blob/master/Sliki/prva.jpg)
 
 
-	Во горниот лев дел на прозорецот се прикажани погодоци, промаршувања и вкупен број на поени, заедно со приказ на ниво на игра (level). Се започнува од ниво 1. Во средишниот горен дел стои бројач на време за нивото (30 секунди за секое ниво) како и број на пукања (се почнува со 50 пукања). Десно на екранот се наоѓаат копчиња за рестарт и за излез од играта. 
+Во горниот лев дел на прозорецот се прикажани погодоци, промаршувања и вкупен број на поени, заедно со приказ на ниво на игра (level). Се започнува од ниво 1. Во средишниот горен дел стои бројач на време за нивото (30 секунди за секое ниво) како и број на пукања (се почнува со 50 пукања). Десно на екранот се наоѓаат копчиња за рестарт и за излез од играта. 
 
 
 •	Доколку времето истече под 10 секунди, се менува бојата на бројачот во црвена.
@@ -59,7 +60,7 @@ o	Exit – ја затвора апликацијата.
 ![alt text](https://github.com/SlavchoSpasenoski/C-projects/blob/master/Sliki/treta.jpg)
 
 На сликата подоле е прикажан прозорецот HighScores каде што може да се зачуваат поените (се внесува име), да се започне нова игра, да се види ранг листата или да се излезе од играта:
-![alt text](https://github.com/SlavchoSpasenoski/C-projects/blob/master/Sliki/cetvrta.jpg)
+![alt text](https://github.com/SlavchoSpasenoski/C-projects/blob/master/Sliki/cetvrta.png)
 
 
 
@@ -69,7 +70,7 @@ o	Exit – ја затвора апликацијата.
 
 
 
-	Доколку се кликне на полето Best cowboys, се прикажува ранг листата со поени:
-![alt text](https://github.com/SlavchoSpasenoski/C-projects/blob/master/Sliki/petta.jpg)
+Доколку се кликне на полето Best cowboys, се прикажува ранг листата со поени:
+![alt text](https://github.com/SlavchoSpasenoski/C-projects/blob/master/Sliki/petta.png)
  
 
