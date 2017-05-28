@@ -123,7 +123,7 @@ namespace ShootingGame_VizuelnoProject
             totalShots = 0;
             misses = 0;
             levels = 1;
-            bullets = 100;
+            bullets = 50;
             label1.Text = "Score " + Hits;
 
             label3.Text = "Total " + totalShots;
@@ -202,8 +202,9 @@ namespace ShootingGame_VizuelnoProject
         private void timer3_Tick(object sender, EventArgs e)
         {
        
-            levelTimeCounter--;
+           
             label7.Text = "TIME FOR LEVEL " + levelTimeCounter;
+            levelTimeCounter--;
             if(levelTimeCounter <= 10)
             {
                 label7.ForeColor = Color.Red;

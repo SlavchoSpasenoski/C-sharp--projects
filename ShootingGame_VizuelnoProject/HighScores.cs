@@ -44,7 +44,7 @@ namespace ShootingGame_VizuelnoProject
 
         private void HighScores_Load(object sender, EventArgs e)
         {
-
+            Form1.ActiveForm.Enabled = false;
         }
 
         private void button2_Click(object sender, EventArgs e)
