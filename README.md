@@ -53,10 +53,13 @@ o	Exit – ја затвора апликацијата.
 
 •	Доколку времето истече под 10 секунди, се менува бојата на бројачот во црвена.
 
+![alt text](https://github.com/SlavchoSpasenoski/C-projects/blob/master/Sliki/vtora.jpg)
 	
 •	Откако ќе истече времето за пукање, се прекинува играта и се прикажува GAME OVER LOOSER!!! како и прозорец за HighScores. Исто така играта се прекунува и доколку се потрошат пукањата (bullets).
+![alt text](https://github.com/SlavchoSpasenoski/C-projects/blob/master/Sliki/treta.jpg)
 
 На сликата подоле е прикажан прозорецот HighScores каде што може да се зачуваат поените (се внесува име), да се започне нова игра, да се види ранг листата или да се излезе од играта:
+![alt text](https://github.com/SlavchoSpasenoski/C-projects/blob/master/Sliki/cetvrta.jpg)
 
 
 
@@ -67,5 +70,6 @@ o	Exit – ја затвора апликацијата.
 
 
 	Доколку се кликне на полето Best cowboys, се прикажува ранг листата со поени:
+![alt text](https://github.com/SlavchoSpasenoski/C-projects/blob/master/Sliki/petta.jpg)
  
 
