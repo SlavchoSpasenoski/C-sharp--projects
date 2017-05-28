@@ -43,7 +43,7 @@ o	Bestcowboys – Пребарува во класата Players за внесе
 o	Exit – ја затвора апликацијата.
 
 3.	Screenshots од изгледот на апликацијата/играта
-   ![alt text](http://github.com/SlavchoSpasenoski/C-projects/blob/master/to/Sliki/prva.jpg)
+   ![alt text](https://github.com/SlavchoSpasenoski/C-projects/blob/master/Sliki/prva.jpg)
 
 •	Кога апликацијата ќе се стартува таа изгледа како на следнава слика:
 
